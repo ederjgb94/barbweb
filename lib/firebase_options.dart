@@ -61,4 +61,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'barbtest-d22b4.appspot.com',
     measurementId: 'G-4WHSJFHXBL',
   );
+
 }
